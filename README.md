@@ -1,2 +1,4 @@
 # VkVoiceNote
-![Alt text](screens/vkmain)
+![Alt text](vkmain.png)
+![Alt text](vklist.png)
+
