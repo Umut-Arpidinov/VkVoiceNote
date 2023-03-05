@@ -1,2 +1,2 @@
 # VkVoiceNote
-![Alt text](/screens/vkmain)
+![Alt text](screens/vkmain)
